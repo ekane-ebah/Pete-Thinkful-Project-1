@@ -16,4 +16,4 @@ This project being the first webproject in my Web Development program, Chegg Ski
 
 CONTACT
 Claudine Ekane: ebahekane2022@gmail.com
-Project link:
+Project link:   https://github.com/ekane-ebah/Pete-Thinkful-Project-1
