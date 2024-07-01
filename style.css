@@ -76,11 +76,9 @@ img {
 }
 /* This add style to the anchor tags*/
 a{
-  
   font-family: georgia;
-
 }
 a:link {color:#d62828;}
-a:hover{color:#f77f00;
+a:hover{color:#f77f00;}
         
 
