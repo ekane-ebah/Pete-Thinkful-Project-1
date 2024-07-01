@@ -51,6 +51,7 @@ p {
 div {
   margin: auto;
   width: 600px;
+  text-align: center
 }
 
 
@@ -83,8 +84,9 @@ a{
 a:link {color:#d62828;}
 a:hover{color:#f77f00;
         
- /* this code centralizes the list*/      
-li{
+ /* this code centralizes the ol*/      
+ol{
+  display: inline-Block;
   text-align: center;
 }       
 
