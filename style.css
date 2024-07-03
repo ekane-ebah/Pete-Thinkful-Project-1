@@ -49,7 +49,7 @@ p {
 
 /* The div container constrains the content width within the main container to 600px */
 div {
-  margin: 15% auto;
+  margin: auto;
   width: 600px;
   }
 
@@ -76,6 +76,7 @@ img {
 }
 /* This add style to the anchor tags*/
 a{
+  padding-left: 10px:
   font-family: georgia;
 }
 a:link {color:#d62828;}
